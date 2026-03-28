@@ -129,6 +129,11 @@ This generates a SPIFFS image from the GIF files and uploads it to the ESP32-C3.
 | Idle | `twece.gif` | Random on wake |
 | Charging | `charge.gif` | USB-C plugged in |
 
+## Links
+
+- **PCB Open Source**: [OSHWHub](https://oshwhub.com/httppp/esp32c3-low-power-consumption-ex)
+- **QQ Group**: 1042593321
+
 ## License
 
 MIT License

@@ -129,6 +129,11 @@ flash.bat
 | 静态 | `twece.gif` | 唤醒时随机 |
 | 充电 | `charge.gif` | 插入 USB-C |
 
+## 链接
+
+- **PCB 开源地址**：[立创开源硬件平台](https://oshwhub.com/httppp/esp32c3-low-power-consumption-ex)
+- **QQ 交流群**：1042593321
+
 ## 许可证
 
 MIT License
