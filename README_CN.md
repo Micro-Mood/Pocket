@@ -132,6 +132,7 @@ flash.bat
 ## 链接
 
 - **PCB 开源地址**：[立创开源硬件平台](https://oshwhub.com/httppp/esp32c3-low-power-consumption-ex)
+- **BiliBili**：[视频介绍](https://www.bilibili.com/video/BV1uZECzME1G/)
 - **QQ 交流群**：1042593321
 
 ## 许可证
