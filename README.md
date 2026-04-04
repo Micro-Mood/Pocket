@@ -133,6 +133,7 @@ This generates a SPIFFS image from the GIF files and uploads it to the ESP32-C3.
 
 - **PCB Open Source**: [OSHWHub](https://oshwhub.com/httppp/esp32c3-low-power-consumption-ex)
 - **BiliBili**: [Video](https://www.bilibili.com/video/BV1uZECzME1G/)
+- **YouTube**: [Video](https://youtu.be/1sSGqthJN1I)
 - **QQ Group**: 1042593321
 
 ## License
