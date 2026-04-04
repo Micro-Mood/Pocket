@@ -65,7 +65,7 @@
 
 ```
 pocket/
-├── Pocket/
+├── src/
 │   ├── Arduino/
 │   │   ├── Pocket.ino          # Arduino 固件
 │   │   └── partitions.csv      # ESP32 分区表
@@ -77,6 +77,7 @@ pocket/
 │   │       └── SPIFFS/         # 固件用 GIF 资源
 │   └── Emoji/                  # After Effects 动画源文件
 ├── hardware/
+│   ├── ProPrj_ESP32C3_Pendant_JLC.epro2  # 立创EDA Pro PCB 工程（JLC）
 │   ├── model.3dm               # Rhino 3D 模型
 │   ├── shell.stl               # 外壳（可直接打印）
 │   └── back-cover.stl          # 后盖（可直接打印）
@@ -96,7 +97,7 @@ pocket/
 
 ### 2. 烧录固件
 
-1. 用 Arduino IDE 打开 `Pocket/Arduino/Pocket.ino`
+1. 用 Arduino IDE 打开 `src/Arduino/Pocket.ino`
 2. 选择开发板：**ESP32C3 Dev Module**
 3. 设置分区方案，使用自定义 `partitions.csv`
 4. 上传
@@ -112,7 +113,7 @@ pip install esptool
 然后执行烧录：
 
 ```bash
-cd Pocket/filesystem
+cd src/filesystem
 flash.bat
 ```
 

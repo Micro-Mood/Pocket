@@ -65,7 +65,7 @@
 
 ```
 pocket/
-├── Pocket/
+├── src/
 │   ├── Arduino/
 │   │   ├── Pocket.ino          # Arduino firmware
 │   │   └── partitions.csv      # ESP32 partition table
@@ -77,6 +77,7 @@ pocket/
 │   │       └── SPIFFS/         # GIF assets for firmware
 │   └── Emoji/                  # After Effects animation sources
 ├── hardware/
+│   ├── ProPrj_ESP32C3_Pendant_JLC.epro2  # EasyEDA Pro PCB project (JLC)
 │   ├── model.3dm               # Rhino 3D model
 │   ├── shell.stl               # Enclosure (print-ready)
 │   └── back-cover.stl          # Back cover (print-ready)
@@ -96,7 +97,7 @@ Extract the archives in `libs/` to your Arduino libraries folder, or install via
 
 ### 2. Flash Firmware
 
-1. Open `Pocket/Arduino/Pocket.ino` in Arduino IDE
+1. Open `src/Arduino/Pocket.ino` in Arduino IDE
 2. Select board: **ESP32C3 Dev Module**
 3. Set partition scheme to use the custom `partitions.csv`
 4. Upload
@@ -112,7 +113,7 @@ pip install esptool
 Then run the flash script:
 
 ```bash
-cd Pocket/filesystem
+cd src/filesystem
 flash.bat
 ```
 
