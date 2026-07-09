@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/title.png" width="80%"/>
+  <img src="images/title.jpg" width="80%"/>
 </div>
 
 <h1 align="center">Pocket V1.0 Emoji Pendant</h1>
