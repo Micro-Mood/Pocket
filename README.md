@@ -4,7 +4,7 @@
 
 <h1 align="center">Pocket V1.0 表情挂件</h1>
 
-<p align="center"><b>一个带动画表情、要换换下唤醒和 USB-C 充电的桌面/背包小挂件</b></p>
+<p align="center"><b>一个带动画表情、摇一摇唤醒和 USB-C 充电的桌面/背包小挂件</b></p>
 
 <p align="center">
   <a href="#-概览">概览</a> &nbsp;|&nbsp;
