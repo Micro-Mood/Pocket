@@ -36,18 +36,12 @@ Ignore it for 10 seconds and it dims to sleep. **Give it a shake and it wakes in
 
 Hardware, firmware, animation sources, 3D enclosure — **fully open source**. Flash with one click using pre-built firmware, or customize the code, draw new expressions, and 3D print your own shell.
 
-<div align="center">
-  <table>
-    <tr align="center">
-      <td width="110"><b>🧠 MCU</b><br>ESP32-C3FN4<br><sub>RISC-V</sub></td>
-      <td width="110"><b>📺 Display</b><br>1.47" IPS<br><sub>172×320</sub></td>
-      <td width="110"><b>🎯 Gyro</b><br>LSM6DS3TRC<br><sub>6-Axis IMU</sub></td>
-      <td><b>🔋 Charging</b><br>TP4057<br><sub>USB-C</sub></td>
-      <td><b>🎨 Expressions</b><br>6 GIFs<br><sub>+AE Sources</sub></td>
-      <td><b>🖨️ Enclosure</b><br>3D Printed<br><sub>Cat-Ear Design</sub></td>
-    </tr>
-  </table>
-</div>
+- 🧠 **MCU** — ESP32-C3FN4 (RISC-V)
+- 📺 **Display** — 1.47" IPS ST7789 172×320
+- 🎯 **Gyro** — LSM6DS3TRC 6-Axis IMU
+- 🔋 **Charging** — TP4057 + USB-C
+- 🎨 **Expressions** — 6 hand-drawn GIFs + AE sources
+- 🖨️ **Enclosure** — 3D printed cat-ear design (Rhino + STL)
 
 ---
 

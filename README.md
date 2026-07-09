@@ -36,18 +36,12 @@ Pocket 是一只**比拇指稍大的电子小挂件**，挂在包上、放在桌
 
 硬件、固件、动画源文件、3D 外壳——**全套开源**。可以直接用预编译固件一键烧录，也可以自己改代码、画新表情、打印新外壳。
 
-<p align="center">
-  <table align="center">
-    <tr align="center">
-      <td width="110"><b>🧠 主控</b><br>ESP32-C3FN4<br><sub>RISC-V</sub></td>
-      <td width="110"><b>📺 屏幕</b><br>1.47" IPS<br><sub>172×320</sub></td>
-      <td width="110"><b>🎯 陀螺仪</b><br>LSM6DS3TRC<br><sub>六轴 IMU</sub></td>
-      <td><b>🔋 充电</b><br>TP4057<br><sub>USB-C</sub></td>
-      <td><b>🎨 表情</b><br>6 种 GIF<br><sub>+AE 源文件</sub></td>
-      <td><b>🖨️ 外壳</b><br>3D 打印<br><sub>猫耳造型</sub></td>
-    </tr>
-  </table>
-</p>
+- 🧠 **主控** — ESP32-C3FN4 (RISC-V)
+- 📺 **屏幕** — 1.47" IPS ST7789 172×320
+- 🎯 **陀螺仪** — LSM6DS3TRC 六轴 IMU
+- 🔋 **充电** — TP4057 + USB-C
+- 🎨 **表情** — 6 种手绘 GIF + AE 源文件
+- 🖨️ **外壳** — 3D 打印猫耳造型 (Rhino + STL)
 
 ---
 
